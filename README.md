@@ -21,3 +21,42 @@ Some people might find it hard at first to align with this thought process but i
 #### + task list for each milestone. Recuring and one-time. A clicker that monitors the number of times a recurring task is done each day to ensure user knows how much of it they've done and how much they have left.
 - would also help with sending reminders and the like to reinforce and to encourage
 
++++ perhaps for the daily tasks, segregate them into groups like morning routines, then specific tasks for like chores before work, then tasks for work for the day, the tasks for after work, then maybe stuff to do before bed. And only each segment shows until that segment is completeed.
+
+#### --savings targets 
+- (things I'm saving up for like investments, home/apartment, shopping, vacation, etc with a date for when I need it and dedicated monitoring system to keep tabs on how far I am from the target)
+
+
+
+Features:
++ Financials
+- income (recurring, one-time)
+- savings (liquid, targets)
+- expenses (recurring, expedient, others)
+
++ Tasks list
+- recurring (daily or specific days in the week)
+- one-off
+- project related tasks
+*include a visual representation for blocks of time that are free that can be gleaned at a glance.
+
++ Vision board
+
++ Goals
+
++ Projects
+
+//Notifications
+- can't send regular notifications on mobile with a PWA so instead
+-- sms notifications
+-- email notifications
+-- in-app notifications (with pops/slide-ins when the app is open)
+
+///Also, add a feature that lets the screen stay alive while the app is open.
+
+
+MVP - no sophistication
+- Task list
+- Goals
+- Savings targets
+- Income (expected, )
